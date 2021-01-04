@@ -17,6 +17,7 @@
 <br />
 
 ### Recent GitHub Activity:
+<!--START_SECTION:activity-->
 
 ### GitHub Stats:
 <img align="left" alt="Nick K's GitHub Stats" src="https://github-readme-stats.na1k.vercel.app/api?username=Na1k&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
