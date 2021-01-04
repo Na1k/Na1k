@@ -19,6 +19,6 @@
 ### Recent GitHub Activity:
 
 ### GitHub Stats:
-
+<img align="left" alt="Nick K's GitHub Stats" src="https://github-readme-stats.na1k.vercel.app/api?username=Na1k&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
 [app]: https://play.google.com/store/apps/details?id=de.significant.darts
