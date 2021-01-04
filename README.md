@@ -27,8 +27,9 @@
 5. 💪 Opened PR [#47](https://github.com/INF19IT2/2d-Jump-n-Run-SE/pull/47) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
 <!--END_SECTION:activity-->
 
+<br />
 
 ### GitHub Stats:
-<img align="left" alt="Nick K's GitHub Stats" src="https://github-readme-stats.na1k.vercel.app/api?username=Na1k&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img align="left" alt="Nick K's GitHub Stats" src="https://github-readme-stats.na1k.vercel.app/api?username=Na1k&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 
 [app]: https://play.google.com/store/apps/details?id=de.significant.darts
