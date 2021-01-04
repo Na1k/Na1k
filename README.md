@@ -15,6 +15,7 @@
 <img align="left" alt="VMware" width="26px" src="https://raw.githubusercontent.com/Na1k/Na1k/master/icons/VMware.png" title="VMware" />
 
 <br />
+<br />
 
 ### Recent GitHub Activity:
 <!--START_SECTION:activity-->
@@ -24,6 +25,8 @@
 4. 🗣 Commented on [#45](https://github.com/INF19IT2/2d-Jump-n-Run-SE/issues/45) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
 5. 💪 Opened PR [#47](https://github.com/INF19IT2/2d-Jump-n-Run-SE/pull/47) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
 <!--END_SECTION:activity-->
+
+<br />
 
 ### GitHub Stats:
 <img align="left" alt="Nick K's GitHub Stats" src="https://github-readme-stats.na1k.vercel.app/api?username=Na1k&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
