@@ -1,4 +1,4 @@
-### Hi there, I'm Nick 👋
+### Hi, I'm Nick 👋
 
 - 🔭 I'm currently studying Information Technology
 - 🌱 I’m currently learning to write good Code
