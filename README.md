@@ -21,11 +21,11 @@
 
 ### Recent GitHub Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/INF19IT2/2d-Jump-n-Run-SE/issues/53) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
-2. 🗣 Commented on [#45](https://github.com/INF19IT2/2d-Jump-n-Run-SE/issues/45) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
-3. 🗣 Commented on [#45](https://github.com/INF19IT2/2d-Jump-n-Run-SE/issues/45) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
-4. 🗣 Commented on [#45](https://github.com/INF19IT2/2d-Jump-n-Run-SE/issues/45) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
-5. 💪 Opened PR [#47](https://github.com/INF19IT2/2d-Jump-n-Run-SE/pull/47) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
+1. 💪 Opened PR [#195](https://github.com/INF19IT2/2d-Jump-n-Run-SE/pull/195) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
+2. 💪 Opened PR [#192](https://github.com/INF19IT2/2d-Jump-n-Run-SE/pull/192) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
+3. ❗️ Closed issue [#41](https://github.com/Na1k/TICompiler/issues/41) in [Na1k/TICompiler](https://github.com/Na1k/TICompiler)
+4. 🎉 Merged PR [#53](https://github.com/Na1k/TICompiler/pull/53) in [Na1k/TICompiler](https://github.com/Na1k/TICompiler)
+5. 💪 Opened PR [#53](https://github.com/Na1k/TICompiler/pull/53) in [Na1k/TICompiler](https://github.com/Na1k/TICompiler)
 <!--END_SECTION:activity-->
 
 <br />
