@@ -22,11 +22,11 @@
 
 ### Recent GitHub Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#195](https://github.com/INF19IT2/2d-Jump-n-Run-SE/pull/195) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
-2. 💪 Opened PR [#192](https://github.com/INF19IT2/2d-Jump-n-Run-SE/pull/192) in [INF19IT2/2d-Jump-n-Run-SE](https://github.com/INF19IT2/2d-Jump-n-Run-SE)
-3. ❗️ Closed issue [#41](https://github.com/Na1k/TICompiler/issues/41) in [Na1k/TICompiler](https://github.com/Na1k/TICompiler)
-4. 🎉 Merged PR [#53](https://github.com/Na1k/TICompiler/pull/53) in [Na1k/TICompiler](https://github.com/Na1k/TICompiler)
-5. 💪 Opened PR [#53](https://github.com/Na1k/TICompiler/pull/53) in [Na1k/TICompiler](https://github.com/Na1k/TICompiler)
+1. 🎉 Merged PR [#10](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/10) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+2. 💪 Opened PR [#10](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/10) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+3. 🎉 Merged PR [#6](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/6) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+4. 💪 Opened PR [#7](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/7) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+5. 💪 Opened PR [#6](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/6) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
 <!--END_SECTION:activity-->
 
 <br />
