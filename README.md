@@ -23,11 +23,11 @@
 
 ### Recent GitHub Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/37) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
-2. 💪 Opened PR [#38](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/38) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
-3. 💪 Opened PR [#37](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/37) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
-4. 🎉 Merged PR [#35](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/35) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
-5. 💪 Opened PR [#35](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/35) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+1. 💪 Opened PR [#39](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/39) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+2. 🎉 Merged PR [#3](https://github.com/Na1k/NiceQuotes/pull/3) in [Na1k/NiceQuotes](https://github.com/Na1k/NiceQuotes)
+3. 🎉 Merged PR [#4](https://github.com/Na1k/NiceQuotes/pull/4) in [Na1k/NiceQuotes](https://github.com/Na1k/NiceQuotes)
+4. 🎉 Merged PR [#6](https://github.com/Na1k/NiceQuotes/pull/6) in [Na1k/NiceQuotes](https://github.com/Na1k/NiceQuotes)
+5. 🎉 Merged PR [#8](https://github.com/Na1k/NiceQuotes/pull/8) in [Na1k/NiceQuotes](https://github.com/Na1k/NiceQuotes)
 <!--END_SECTION:activity-->
 
 <br />
