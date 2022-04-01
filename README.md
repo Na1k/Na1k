@@ -23,11 +23,11 @@
 
 ### Recent GitHub Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/51) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
-2. 🗣 Commented on [#53](https://github.com/Software-Engineering-DHBW/BonoboBoard/issues/53) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
-3. 💪 Opened PR [#51](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/51) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
-4. 🎉 Merged PR [#48](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/48) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
-5. 💪 Opened PR [#48](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/48) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+1. 🎉 Merged PR [#84](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/84) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+2. 💪 Opened PR [#84](https://github.com/Software-Engineering-DHBW/BonoboBoard/pull/84) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+3. ❗️ Closed issue [#83](https://github.com/Software-Engineering-DHBW/BonoboBoard/issues/83) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+4. 🗣 Commented on [#83](https://github.com/Software-Engineering-DHBW/BonoboBoard/issues/83) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
+5. 🗣 Commented on [#83](https://github.com/Software-Engineering-DHBW/BonoboBoard/issues/83) in [Software-Engineering-DHBW/BonoboBoard](https://github.com/Software-Engineering-DHBW/BonoboBoard)
 <!--END_SECTION:activity-->
 
 <br />
