@@ -1,6 +1,7 @@
 ### Hi, I'm Nick 👋
 
-- 🔭 I'm currently studying Information Technology
+- 🎓 I'm currently studying Information Technology
+- 🌐 Check out my [website (nick-kramer.de)](http://nick-kramer.de)!
 <!---
 - 🌱 I’m currently learning to write good Code
 - 🥅 Goals for 2021: Updating my App! [Darts Zähler (German)][app]
