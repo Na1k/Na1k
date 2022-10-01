@@ -1,10 +1,10 @@
 ### Hi, I'm Nick 👋
 
-- 🎓 I'm currently studying Information Technology
+- 🎓 I have a bachelor's degree in Information Technology
 - 🌐 Check out my [website (nick-kramer.de)](http://nick-kramer.de)!
 <!---
 - 🌱 I’m currently learning to write good Code
-- 🥅 Goals for 2021: Updating my App! [Darts Zähler (German)][app]
+- 🥅 Goals for 2022: Starting a small blog.
 <br />
 -->
 ### Languages and Tools:
