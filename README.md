@@ -1,5 +1,6 @@
 ### Hi, I'm Nick 👋
 
+- 👨🏼‍💻 I'm a senior software developer
 - 🎓 I have a bachelor's degree in Information Technology
 - 🌐 Check out my [website (nick-kramer.de)](http://nick-kramer.de)!
 <!---
@@ -9,11 +10,13 @@
 -->
 ### Languages and Tools:
 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" />
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code" />
+<img align="left" alt="Single SPA" width="26px" src="https://single-spa-workshop.com/static/img/single-spa-mark-magenta.svg" title="Single SPA" />
 <img align="left" alt="Android-Dev" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="Android-Dev" />
 <!---<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Na1k/Na1k/master/icons/Expo.png" title="Python" />-->
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" />
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" title="Kotlin" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker" />
 <img align="left" alt="VMware" width="26px" src="https://raw.githubusercontent.com/Na1k/Na1k/master/icons/VMware.png" title="VMware" />
